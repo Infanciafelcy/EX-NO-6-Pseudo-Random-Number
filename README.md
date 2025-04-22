@@ -1,5 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
-
+## Name : Infancia Felcy P
+## REG NO: 212223040067
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
